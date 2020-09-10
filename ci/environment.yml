@@ -1,4 +1,4 @@
-name: ssh-auth-dev
+name: ssh-spawner-dev
 channels:
   - conda-forge
 dependencies:
