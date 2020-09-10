@@ -1,0 +1,2 @@
+class SSHSpawner:
+    pass
